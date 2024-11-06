@@ -1,4 +1,4 @@
-# python-table-array-max-value
+# python-array-max-value
 Small program in Python that allow you to set your array size, then enter values to fill the array. The program will order from smallest to largest value and show the bigest value.
 
 ALGO (Comment fonctionne le programme)
@@ -9,4 +9,3 @@ La valeur à l’indice de comparaison devient la valeur qui était dans mon ind
 Autant de fois la taille du tableau, On répète l’opération en incrémentant notre indice départ.
 
 Ce programme ordonne le tableau du plus petit au plus grand.
-
